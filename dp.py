@@ -154,4 +154,5 @@ def main():
     input(stage(f"Press {fluo2}enter{white} to {fluo}exit{white}.", '.'))
 
 if __name__ == '__main__':
+
     main()
